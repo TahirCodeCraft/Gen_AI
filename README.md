@@ -64,9 +64,6 @@ python chatbot/rag_chatbot.py --query "Tell me about quantum computing"
 python ai_agents/crew_agent.py --task "Automate a market research report"
 ```
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
